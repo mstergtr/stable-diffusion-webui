@@ -1,3 +1,4 @@
+set COMMANDLINE_ARGS=--precision full --no-half 
 @echo off
 
 if not defined PYTHON (set PYTHON=python)
